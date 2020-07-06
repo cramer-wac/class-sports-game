@@ -17,3 +17,7 @@ Adds in some dom elements to Team
 ## game3class.js
 
 Makes a Game Class
+
+## game4class.js & index4class.html
+
+ties up the creation of dom elements in the classes
